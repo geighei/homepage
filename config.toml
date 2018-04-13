@@ -1,0 +1,33 @@
+title = "GEIGHEI"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+#SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+# googleAnalytics = ""
+# enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  #favicon = ""
+  #description = "The last theme you'll ever need. Maybe."
+  #facebook = ""
+  #twitter = "https://twitter.com/GoHugoIO"
+  #instagram = ""
+  #youtube = ""
+  #github = ""
+  #linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "lightest-blue"
+  featured_image = '/images/dna.jpg'
+  recent_posts_number = 2
+  #body_classes = "avenir bg-near-white blue"
+  mainSections = ["example"]
