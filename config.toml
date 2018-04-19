@@ -1,5 +1,5 @@
 title = "GEIGHEI"
-baseURL = "http://gene-environment.netlify.com"
+baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
