@@ -9,21 +9,60 @@ menu:
 
 # Team
 
-***
-
 ### Principal Investigators
 
 * **[Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/)**  
+   Associate Professor of Health Economics  
    *Erasmus University Rotterdam*  
+   [hvankippersluis@ese.eur.nl](mailto:hvankippersluis@ese.eur.nl)  
 
 * **[Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)**  
-   *University of Zurich* 
+   Assistant Professorship of Microeconomics   
+   *University of Zurich*  
+   [pietro.biroli@econ.uzh.ch](mailto:pietro.biroli@econ.uzh.ch)
 
 * **[Stephanie von Hinke](https://stephanievonhinke.wordpress.com)**  
-   *University of Bristol* 
+   Reader in Economics  
+   *University of Bristol*  
+   [s.vonhinke@bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk)
 
-* **Tonu Esko**  
+* **[Tonu Esko](https://www.ut.ee/en/tonu-esko)**  
+   Vice Director of Institute of Genomics and Head of Estonian Biobank Science Center  
    *University of Tartu*  
+   [tonu.esko@ut.ee](mailto:tonu.esko@ut.ee) 
+
+***
+
+### Researchers
+* **Eddy van Doorslaer**  
+   *Erasmus University Rotterdam*  
+
+* **Frank Windmeijer**  
+   *University of Bristol*  
+
+* **George Davey Smith**  
+   *University of Bristol*  
+
+* **Gerard van den Berg**  
+   *University of Bristol*  
+
+* **Marcus Munafo**  
+   *University of Bristol*  
+
+* **Niels Rietveld**  
+   *Erasmus University Rotterdam*  
+
+* **Titus Galama**  
+   *Erasmus University Rotterdam*  
+
+***
+
+### Postdocs
+* **Adele Wang**  
+   *University of Bristol*  
+
+* **Fleur Meddens**  
+   *Erasmus University Rotterdam*  
 
 ***
 
@@ -31,26 +70,23 @@ menu:
 * **Christian Zünd**   
    *University of Zurich*  
 
+* **Dilnoza Muslimova**  
+   *Erasmus University Rotterdam*  
+
 * **Laura Zwyssig**  
    *University of Zurich*  
 
-* **Person #3**  
-   *University of*  
+* **Rita Pereira**  
+   *Erasmus University Rotterdam*  
 
-* **Person #4**  
-   *University of*  
-
+* **Samuel Baker**  
+   *University of Bristol*  
+   
 ***
-
+   
 ### Research Assistants
 * **Amr Elriedy**  
    *University of Zurich*  
 
 * **Michelle Rosenberger**  
    *University of Zurich*
-
-* **Person #3**  
-   *University of*
-
-* **Person #4**  
-   *University of*

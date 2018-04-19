@@ -21,4 +21,4 @@ We innovate by combining methods from genetics and social science. Building on t
 ***
 
 # Funding
-Research funded by NORFAC. See link for more information.
+Research is funded by NORFACE. More information can be found on their [homepage](https://www.norface.net/).

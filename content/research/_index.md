@@ -1,26 +1,18 @@
 ---
 title: "Research"
 date: 2018-04-11T16:48:58+02:00
-featured_image: '/images/dna.jpg'
 draft: false
 menu:
     main:
         weight: 3
 ---
-
-
-
 # Publications
 
-Paper #1
-
-Paper #2
-
-Paper #3
+There are currently no publications to display.
 
 *** 
 
-# Data
+# Data sources
 
 ### Core data sources
 * Avon Longitudinal Study of Parents and Children (ALSPAC)
