@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on GEIGHEI</title>
+    <link>http://www.gene-environment.com/news/</link>
+    <description>Recent content in News on GEIGHEI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Apr 2018 09:29:37 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.gene-environment.com/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News #2</title>
+      <link>http://www.gene-environment.com/news/news2/</link>
+      <pubDate>Thu, 12 Apr 2018 09:29:37 +0200</pubDate>
+      
+      <guid>http://www.gene-environment.com/news/news2/</guid>
+      <description>Text about news here.</description>
+    </item>
+    
+    <item>
+      <title>News #1</title>
+      <link>http://www.gene-environment.com/news/news1/</link>
+      <pubDate>Thu, 12 Apr 2018 09:29:33 +0200</pubDate>
+      
+      <guid>http://www.gene-environment.com/news/news1/</guid>
+      <description>Text about news here.</description>
+    </item>
+    
+  </channel>
+</rss>
