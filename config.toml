@@ -18,13 +18,9 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 
 [params]
   #favicon = ""
-  #description = "The last theme you'll ever need. Maybe."
   #facebook = ""
   #twitter = "https://twitter.com/GoHugoIO"
-  #instagram = ""
-  #youtube = ""
   #github = ""
-  #linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "lightest-blue"
   featured_image = '/images/dna.jpg'

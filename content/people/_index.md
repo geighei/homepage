@@ -14,22 +14,22 @@ menu:
 * **[Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/)**  
    Associate Professor of Health Economics  
    *Erasmus University Rotterdam*  
-   [hvankippersluis@ese.eur.nl](mailto:hvankippersluis@ese.eur.nl)  
+   [hvankippersluis [at] ese.eur.nl](mailto:hvankippersluis@ese.eur.nl)  
 
 * **[Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)**  
    Assistant Professorship of Microeconomics   
    *University of Zurich*  
-   [pietro.biroli@econ.uzh.ch](mailto:pietro.biroli@econ.uzh.ch)
+   [pietro.biroli [at] econ.uzh.ch](mailto:pietro.biroli@econ.uzh.ch)
 
 * **[Stephanie von Hinke](https://stephanievonhinke.wordpress.com)**  
    Reader in Economics  
    *University of Bristol*  
-   [s.vonhinke@bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk)
+   [s.vonhinke [at] bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk)
 
 * **[Tonu Esko](https://www.ut.ee/en/tonu-esko)**  
    Vice Director of Institute of Genomics and Head of Estonian Biobank Science Center  
    *University of Tartu*  
-   [tonu.esko@ut.ee](mailto:tonu.esko@ut.ee) 
+   [tonu.esko [at] ut.ee](mailto:tonu.esko@ut.ee) 
 
 ***
 
