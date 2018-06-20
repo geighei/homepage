@@ -21,4 +21,4 @@ We innovate by combining methods from genetics and social science. Building on t
 ***
 
 # Funding
-Research is funded by NORFACE. More information can be found on their [homepage](https://www.norface.net/).
+Research is funded by the New Opportunities for Research Funding Agency Cooperation in Europe (NORFACE), under the project: Dynamics of Inequality Across the Life-course: structures and processes (NORFACE-DIAL). More information can be found on their [homepage](http://www.norface.net/program/dial).

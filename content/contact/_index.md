@@ -8,3 +8,7 @@ menu:
 ---
 
 If you have any questions or want to give feedback, please contact the [principal investigators](/people/).
+
+* [Hans van Kippersluis](mailto:hvankippersluis@ese.eur.nl)
+* [Pietro Biroli](mailto:pietro.biroli@econ.uzh.ch)
+* [Stephanie von Hinke](mailto:s.vonhinke@bristol.ac.uk)

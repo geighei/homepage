@@ -30,3 +30,9 @@ There are currently no publications to display.
 * TwinksUK
 * Generation Scotland
 * Danish Biobank
+
+*** 
+
+# Code
+
+The code for all of the papers can be found at [this Github page](http://github.com/geighei)
