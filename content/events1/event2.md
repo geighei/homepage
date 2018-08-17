@@ -1,9 +1,9 @@
 ---
-title: "Conference October, 2018"
+title: "Kick-off meeting October, 2018"
 date: 2018-08-10T17:03:34+02:00
 featured_image: '/images/dna.jpg'
 draft: false
-summary: "Second conference in Rotterdam to present research ideas and brainstorming"
+summary: "Official kick-off meeting in Rotterdam"
 ---
 
 #### Dates
@@ -11,9 +11,14 @@ October 9 - 10, 2018
 _____
 
 #### Location
-Roterdam
+Rotterdam
 _____
 
 #### Description
-Second conference in Rotterdam to present research ideas and brainstorming.
+Official kick-off meeting in Rotterdam. 
+
+Preliminary aims:
+* Meet all of the research team members
+* Present research ideas 
+* Brainstorming.
 _____
