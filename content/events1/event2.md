@@ -17,8 +17,10 @@ _____
 #### Description
 Official kick-off meeting in Rotterdam. 
 
-Preliminary aims:
+_Preliminary Agenda:_
+
 * Meet all of the research team members
 * Present research ideas 
-* Brainstorming.
+* Brainstorming
+
 _____

@@ -73,7 +73,7 @@ menu:
 * **Dilnoza Muslimova**  
    *Erasmus University Rotterdam*  
 
-* **Laura Zwyssig**  
+* **Regina Seibel**  
    *University of Zurich*  
 
 * **Rita Pereira**  
@@ -90,3 +90,14 @@ menu:
 
 * **Michelle Rosenberger**  
    *University of Zurich*
+
+
+***
+
+### Former PhD Students
+
+* **Laura Zwyssig**  
+   *University of Zurich*  
+
+
+***

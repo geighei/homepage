@@ -17,17 +17,20 @@ _____
 #### Description
 First meeting in Rotterdam. 
 
-Day 1: 
+_Day 1:_
+ 
 * Keynote speaker: John Cawley 
 * Welcome and introduction of team members
 * Data availability, storage, and sharing
 * Presentation of preliminary research by Hans, Stephanie, and Niels
 * Brainstorm 1
 
-Day 2:
+_Day 2:_
+
 * Presentation of preliminary reseach ideas by Pietro, Dilnoza, Rita, Adele, and Fleur
 * Brainstorm 2
 * Wrap-up and list of to-do
+
 _____
 
 #### List of attendants
@@ -49,3 +52,5 @@ _____
 * Stephanie von Hinke (Bristol, Associate professor)
 * Teresa Bago d’Uva (Rotterdam, Associate professor)
 * Tom Van Ourti (Rotterdam, Professor)
+
+_____
