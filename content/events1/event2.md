@@ -1,8 +1,19 @@
 ---
-title: "Event #2"
-date: 2018-04-11T17:03:34+02:00
+title: "Conference October, 2018"
+date: 2018-08-10T17:03:34+02:00
 featured_image: '/images/dna.jpg'
-draft: true
+draft: false
+summary: "Second conference in Rotterdam to present research ideas and brainstorming"
 ---
 
-Information about event #2.
+#### Dates
+October 9 - 10, 2018
+_____
+
+#### Location
+Roterdam
+_____
+
+#### Description
+Second conference in Rotterdam to present research ideas and brainstorming.
+_____

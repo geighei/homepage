@@ -6,5 +6,3 @@ menu:
     main:
         weight: 4
 ---
-
-There are currently no upcoming events.

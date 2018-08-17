@@ -10,4 +10,4 @@ GEIGHEI is short for Gene-Environment Interplay in the Generation of Health and 
 
 GEIGHEI's purpose is to examine how Genes and the Environment (GxE) interact to generate inequalities in education and health over the life course.
 
-This research projet exists thanks to the generous funding of [NORFACE](https://www.norface.net/)-[DIAL](https://www.norface.net/program/dial/).
+This research projet exists thanks to the generous funding of [NORFACE](https://www.norface.net/)-[DIAL](http://dynamicsofinequality.org).

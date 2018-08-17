@@ -20,10 +20,10 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
   #favicon = ""
   #facebook = ""
   #twitter = "https://twitter.com/GoHugoIO"
-  #github = ""
+  github = "http://github.com/geighei"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "lightest-blue"
   featured_image = '/images/dna.jpg'
-  recent_posts_number = 2
+  #recent_posts_number = 2
   #body_classes = "avenir bg-near-white blue"
   mainSections = ["example"]
