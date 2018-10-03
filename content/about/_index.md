@@ -22,3 +22,5 @@ We innovate by combining methods from genetics and social science. Building on t
 
 # Funding
 Research is funded by the New Opportunities for Research Funding Agency Cooperation in Europe (NORFACE), under the project: Dynamics of Inequality Across the Life-course: structures and processes (NORFACE-DIAL). More information can be found on their [homepage](http://dynamicsofinequality.org).
+
+Grant number: 462-16-100
