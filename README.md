@@ -1,11 +1,10 @@
-# Homepage
+# Homepage <!-- omit in toc -->
 
-- [Homepage](#homepage)
-    - [Overview](#overview)
-    - [Set up](#set-up)
-    - [Hugo](#hugo)
-    - [Git](#git)
-    - [Markdown](#markdown)
+- [Overview](#overview)
+- [Set up](#set-up)
+- [Hugo](#hugo)
+- [Git](#git)
+- [Markdown](#markdown)
 
 ## Overview
 This page contains all of the scripts used to construct the [GEIGHEI website](http://gene-environment.com/).
