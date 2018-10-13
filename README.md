@@ -31,7 +31,7 @@ hugo server -D
 
 Now you can open [http://localhost:1313/](http://localhost:1313/) in your browser and the homepage should appear there.
 
-Notice: If you push the changes to the Git repository the homepage will automatically deploy and be updated.
+**Notice**: If you push the changes to the Git repository the homepage will automatically deploy and be updated.
 
 
 ### Git
@@ -83,4 +83,4 @@ git remote -v
 
 
 ### Markdown
-The pages are based on Markdown. So, in order to change or add a page you might need some basic understanding of Markdown. Check this [Markdown cheat sheet] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) for more information.
+The pages are based on Markdown. So, in order to change or add a page you might need some basic understanding of Markdown. Check this [Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) for more information.
