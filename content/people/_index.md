@@ -9,6 +9,8 @@ menu:
 
 # Team
 
+{{< figure src="/images/rotterdam_october.jpg" >}}
+
 ### Principal Investigators
 
 * **[Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/)**  
