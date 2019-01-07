@@ -55,3 +55,5 @@ _Day 1:_
 
 </small>
 
+{{< figure src="/images/rotterdam_october.jpg" >}}
+
