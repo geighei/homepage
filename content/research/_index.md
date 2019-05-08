@@ -7,8 +7,10 @@ menu:
         weight: 3
 ---
 # Publications
+*  "ADHD and later-life labor market outcomes in the United States", Rietveld, C.A. & Patel, P.C. European Journal of Health Economics. Forthcoming.  
+  https://link.springer.com/article/10.1007/s10198-019-01055-0 
+*  “The effect of the genetic propensity for obesity on income and wealth through educational attainment", Patel, P.C. & Rietveld, C.A. Obesity. Forthcoming.  
 
-There are currently no publications to display.
 
 *** 
 
