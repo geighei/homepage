@@ -1,5 +1,5 @@
 ---
-title: "Conference July, 2018"
+title: "Rotterdam Meeting (July, 2018)"
 date: 2018-07-01T17:03:16+02:00
 draft: false
 featured_image: '/images/dna.jpg'
@@ -15,11 +15,11 @@ Rotterdam
 _____
 
 #### Description
-First meeting in Rotterdam. 
+First meeting in Rotterdam.
 
 _Day 1:_
- 
-* Keynote speaker: John Cawley 
+
+* Keynote speaker: John Cawley
 * Welcome and introduction of team members
 * Data availability, storage, and sharing
 * Presentation of preliminary research by Hans, Stephanie, and Niels
