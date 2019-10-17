@@ -1,19 +1,19 @@
 ---
-title: "Postdoc Position"
+title: "Postdoc Position in Bristol"
 date: 2018-04-11T17:01:35+02:00
 featured_image: '/images/dna.jpg'
 draft: false
-summary: "Postdoc position at Bristol will be opening up soon, from January 2020 for 18 months."
+summary: "Postdoc position at Bristol will be opening up soon, from March 2020 for 18 months."
 ---
 
 #### Dates
-*Application*: 3 November 2019
+[*Application*](http://www.bristol.ac.uk/jobs/find/details.html?nPostingId=54854&nPostingTargetId=167034&id=Q50FK026203F3VBQBV7V77V83&LG=UK&mask=uobext): 3 November 2019
 
-*Interviews*: December 2019
+*Interviews*:   December 2019
 
-*Start*: around March 2020
+*Start*:        Around March 2020
 
-*Duration*: 18 months
+*Duration*:     18 months
 _____
 
 #### Location
@@ -27,7 +27,7 @@ The post is part of a NORFACE-funded research project on gene-environment intera
 The successful candidate will preferably start in March 2020, though there is some flexibility.
 Candidates must have a PhD in a quantitative subject, ideally in economics, genetics, epidemiology, or a related discipline, though we are happy to consider applicants with other quantitative backgrounds.
 
-The closing date for applications is *midnight on 3 November 2019*.
+The closing date for applications is **midnight on 3 November 2019**.
 It is expected that interviews will be held in December 2019.
 
 <!-- The Bristol School of Economics is seeking to appoint a Post-Doctoral Research Fellow in Health Economics with a start date of March 2020.
@@ -43,8 +43,10 @@ Strong quantitative skills, and experience of using statistical software such as
 The advert will be posted online in the next few weeks. -->
 _____
 
-
-#### How to apply / Contact
+#### How to apply
 For more details and how to apply, click [here](http://www.bristol.ac.uk/jobs/find/details.html?nPostingId=54854&nPostingTargetId=167034&id=Q50FK026203F3VBQBV7V77V83&LG=UK&mask=uobext).
 
+_____
+
+####  Contact
 If you have any questions please contact [Stephanie von Hinke](https://stephanievonhinke.wordpress.com) (email: [s.vonhinke [at] bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk))
