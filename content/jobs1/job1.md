@@ -7,8 +7,13 @@ summary: "Postdoc position at Bristol will be opening up soon, from January 2020
 ---
 
 #### Dates
-March 2020 for 18 months
+*Application*: 3 November 2019
 
+*Interviews*: December 2019
+
+*Start*: around March 2020
+
+*Duration*: 18 months
 _____
 
 #### Location
@@ -17,7 +22,15 @@ _____
 
 #### Description
 
-The Bristol School of Economics is seeking to appoint a Post-Doctoral Research Fellow in Health Economics with a start date of March 2020.
+The University of Bristol is looking to hire a full-time (senior) research associate / post-doctoral fellow.
+The post is part of a NORFACE-funded research project on gene-environment interactions.
+The successful candidate will preferably start in March 2020, though there is some flexibility.
+Candidates must have a PhD in a quantitative subject, ideally in economics, genetics, epidemiology, or a related discipline, though we are happy to consider applicants with other quantitative backgrounds.
+
+The closing date for applications is *midnight on 3 November 2019*.
+It is expected that interviews will be held in December 2019.
+
+<!-- The Bristol School of Economics is seeking to appoint a Post-Doctoral Research Fellow in Health Economics with a start date of March 2020.
 This is a post-doctoral position associated with a NORFACE-funded research project on gene-environment (GxE) interactions.
 It will involve working closely with Dr. Stephanie von Hinke to explore gene-environment (GxE) interactions in the generation of health and education inequalities across the life course.
 The project will combine methods from genetics and social science, testing
@@ -27,9 +40,11 @@ The successful candidate will exploit natural experiments to deal with possible 
 
 Candidates must have a PhD in a quantitative subject, ideally in economics, genetics, epidemiology, or a related discipline, though we are happy to consider applicants with other quantitative backgrounds.
 Strong quantitative skills, and experience of using statistical software such as Stata, R, or SAS would be a major advantage.
-The advert will be posted online in the next few weeks.
+The advert will be posted online in the next few weeks. -->
 _____
 
 
-#### Contact
-If you have any questions in the meantime, please contact [Stephanie von Hinke](https://stephanievonhinke.wordpress.com) [s.vonhinke [at] bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk) 
+#### How to apply / Contact
+For more details and how to apply, click [here](http://www.bristol.ac.uk/jobs/find/details.html?nPostingId=54854&nPostingTargetId=167034&id=Q50FK026203F3VBQBV7V77V83&LG=UK&mask=uobext).
+
+If you have any questions please contact [Stephanie von Hinke](https://stephanievonhinke.wordpress.com) (email: [s.vonhinke [at] bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk))
