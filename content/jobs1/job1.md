@@ -49,4 +49,4 @@ For more details and how to apply, click [here](http://www.bristol.ac.uk/jobs/fi
 _____
 
 ####  Contact
-If you have any questions please contact [Stephanie von Hinke](https://stephanievonhinke.wordpress.com) (email: [s.vonhinke [at] bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk))
+For further information please contact Prof.  [Stephanie von Hinke](https://stephanievonhinke.wordpress.com) (email: [s.vonhinke [at] bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk))
