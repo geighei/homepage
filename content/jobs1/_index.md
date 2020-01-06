@@ -7,4 +7,3 @@ menu:
         weight: 5
 ---
 
-<There are currently no available positions.>
