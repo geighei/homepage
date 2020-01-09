@@ -16,7 +16,9 @@ We will examine how Genes and the Environment (GxE) interact to generate inequal
 
 Both hypotheses propose a GxE interplay that influences the transition from early childhood to adulthood in periods that are critical to the generation of inequalities.  
 
-We innovate by combining methods from genetics and social science. Building on the discovery of genetic variants that exhibit robust associations with behavioural outcomes and the recent availability of large datasets with information on both environments and genes, we will grasp unprecedented opportunities to fill the gap in knowledge about the combined role of genes and environments in causing inequality. By taking account of the endogenous, multifaceted and dynamic nature of the environment, the research promises a sustained impact by identifying policy interventions that ameliorate inequalities. For example, we will test whether high-quality child care can overcome genetic disadvantage in educational attainment. 
+We innovate by combining methods from genetics and social science. Building on the discovery of genetic variants that exhibit robust associations with behavioural outcomes and the recent availability of large datasets with information on both environments and genes, we will grasp unprecedented opportunities to fill the gap in knowledge about the combined role of genes and environments in causing inequality. By taking account of the endogenous, multifaceted and dynamic nature of the environment, the research promises a sustained impact by identifying policy interventions that ameliorate inequalities. For example, we will test whether high-quality child care can overcome genetic disadvantage in educational attainment.
+
+Find out more in our [research](/research/) page.
 
 ***
 
