@@ -7,3 +7,4 @@ menu:
         weight: 5
 ---
 
+We are not hiring right now, but we are open to collaboration: check out the cool [research](/research/) that we are doing!

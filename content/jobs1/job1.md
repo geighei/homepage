@@ -2,7 +2,7 @@
 title: "Postdoc Position in Bristol"
 date: 2018-04-11T17:01:35+02:00
 featured_image: '/images/dna.jpg'
-draft: false
+draft: true
 summary: "Postdoc position at Bristol will be opening up soon, from March 2020 for 18 months."
 ---
 
