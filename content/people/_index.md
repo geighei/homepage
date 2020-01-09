@@ -31,7 +31,7 @@ menu:
 * **[Tonu Esko](https://www.ut.ee/en/tonu-esko)**  
    Vice Director of Institute of Genomics and Head of Estonian Biobank Science Center  
    *University of Tartu*  
-   [tonu.esko [at] ut.ee](mailto:tonu.esko@ut.ee) 
+   [tonu.esko [at] ut.ee](mailto:tonu.esko@ut.ee)
 
 ***
 
@@ -75,31 +75,36 @@ menu:
 * **Dilnoza Muslimova**  
    *Erasmus University Rotterdam*  
 
-* **Regina Seibel**  
-   *University of Zurich*  
-
-* **Rita Pereira**  
+* **Rita Pereira**
    *Erasmus University Rotterdam*  
 
 * **Samuel Baker**  
    *University of Bristol*  
-   
+
 ***
-   
+
 ### Research Assistants
+* **Pia Arce**  
+   *University of Zurich*  
+
+* **Jeremy Vollen**  
+   *University of Zurich*  
+
+
+***
+
+### Former PhD Students and Research Assistants
+
+* **Laura Zwyssig**  
+   *University of Zurich*  
+
+* **Regina Seibel**  
+   *University of Zurich*  
+
 * **Amr Elriedy**  
    *University of Zurich*  
 
 * **Michelle Rosenberger**  
    *University of Zurich*
-
-
-***
-
-### Former PhD Students
-
-* **Laura Zwyssig**  
-   *University of Zurich*  
-
 
 ***
