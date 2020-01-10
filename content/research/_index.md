@@ -22,6 +22,8 @@ menu:
 
 [The Bristol Festival of Ideas](https://www.ideasfestival.co.uk/events/genoeconomics/) with Fleur Meddens and Stephanie Von Hinke
 
+[The doctorate of a sweet thooth](https://www.surf.nl/en/surf-stories/the-doctorate-of-a-sweet-tooth) with Fleur Meddens
+
 ***
 
 # Data sources
