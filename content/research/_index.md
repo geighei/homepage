@@ -20,6 +20,8 @@ menu:
 ## News
 [The Influence of our Genes](https://www.econ.uzh.ch/dam/jcr:f9fa2b65-9635-4b7d-b1bc-17cce7429d49/191007_NZZFolio_Artikel.pdf) with intervention by Pietro Birolii *(in German)*
 
+[The Bristol Festival of Ideas](https://www.ideasfestival.co.uk/events/genoeconomics/) with Fleur Meddens and Stephanie Von Hinke
+
 ***
 
 # Data sources
