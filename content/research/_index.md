@@ -11,6 +11,8 @@ menu:
 
 ["The effect of the genetic propensity for obesity on income and wealth through educational attainment"](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22528), Patel, P.C. & Rietveld, C.A. Obesity. 2019.
 
+["Genomic analysis of diet composition finds novel loci and associations with health and lifestyle"](https://www.nature.com/articles/s41380-020-0697-5), Fleur R. Meddens et al., Molecular Psychiatry. 2020
+
 # Media Coverage
 ## Podcasts
 [Who we are and what we drink – genes, pubs and alcohol policy](http://dynamicsofinequality.org/who-we-are-and-what-we-drink-genes-pubs-and-alcohol-policy/) by Chris Zünd
