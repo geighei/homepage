@@ -18,12 +18,10 @@ menu:
    *Erasmus University Rotterdam*
    [hvankippersluis [at] ese.eur.nl](mailto:hvankippersluis@ese.eur.nl)
 
-* **[Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)**
-   Assistant Professorship of Microeconomics
+* **[Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)** <a href="https://twitter.com/pietrobiroli?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pietrobiroli</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   Assistant Professor of Microeconomics
    *University of Zurich*
    [pietro.biroli [at] econ.uzh.ch](mailto:pietro.biroli@econ.uzh.ch)
-   
-   <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * **[Stephanie von Hinke](https://stephanievonhinke.wordpress.com)**
    Reader in Economics
