@@ -112,7 +112,14 @@ menu:
 ### Want to know more?
 Follow us on twitter
 
+<a class="twitter-timeline" href="https://twitter.com/fleurmeddens?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" href="https://twitter.com/adele_wang_?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <a class="twitter-timeline" href="https://twitter.com/pietrobiroli?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<a class="twitter-timeline" href="https://twitter.com/mendel_random?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" href="https://twitter.com/MarcusMunafo?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
