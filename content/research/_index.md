@@ -31,17 +31,22 @@ menu:
 # Data sources
 
 ### Core data sources
-* Avon Longitudinal Study of Parents and Children (ALSPAC)
-* National Child Development Study (NCDS)
-* Estonian Biobank
-* UK Biobank
-* English Longitudinal Study of Aging (ELSA)
-* Health and Retirement Study (HRS)
+* Avon Longitudinal Study of Parents and Children ([ALSPAC](http://www.bristol.ac.uk/alspac/))
+* UK Biobank ([UKB](https://www.ukbiobank.ac.uk/))
+* English Longitudinal Study of Aging ([ELSA](https://www.elsa-project.ac.uk/))
+* Health and Retirement Study ([HRS](https://hrs.isr.umich.edu/about))
+* Wisconsin Longitudinal Study ([WLS](https://www.ssc.wisc.edu/wlsresearch/))
 
 
 ### Secondary data sources
-* LifeLines
-* Add health
+* [LifeLines](https://www.lifelines.nl/researcher)
+* The National Study of Adolescent to Adult Helth ([Add health](https://www.cpc.unc.edu/projects/addhealth))
+* Understanding Society ([UKHLS](https://www.understandingsociety.ac.uk/))
+
+### Other Possible datasets
+* National Child Development Study (NCDS)
+* Millenium Cohort Study
+* Estonian Biobank
 * BBMRI (THL) Finnish Biobank
 * TwinksUK
 * Generation Scotland
