@@ -18,7 +18,7 @@ menu:
    *Erasmus University Rotterdam*
    [hvankippersluis [at] ese.eur.nl](mailto:hvankippersluis@ese.eur.nl)
 
-* **[Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)** <a href="https://twitter.com/pietrobiroli?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @pietrobiroli</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+* **[Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)**
    Assistant Professor of Microeconomics
    *University of Zurich*
    [pietro.biroli [at] econ.uzh.ch](mailto:pietro.biroli@econ.uzh.ch)
@@ -36,26 +36,26 @@ menu:
 ***
 
 ### Researchers
-* **Eddy van Doorslaer**
+* **[Niels Rietveld](https://www.erim.eur.nl/people/niels-rietveld/)**
    *Erasmus University Rotterdam*
 
-* **Frank Windmeijer**
-   *University of Bristol*
-
-* **George Davey Smith**
-   *University of Bristol*
-
-* **Gerard van den Berg**
-   *University of Bristol*
-
-* **Marcus Munafo**
-   *University of Bristol*
-
-* **Niels Rietveld**
+* **[Titus Galama](https://scholar.google.com/citations?user=NJbz27cAAAAJ&hl=en)**
    *Erasmus University Rotterdam*
 
-* **Titus Galama**
+* **[Eddy van Doorslaer](https://www.eur.nl/people/eddy-van-doorslaer)**
    *Erasmus University Rotterdam*
+
+* **[Frank Windmeijer](https://scholar.google.com/citations?hl=en&user=STAbnZAAAAAJ)**
+   *University of Oxford*
+
+* **[George Davey Smith](https://scholar.google.com/citations?hl=en&user=rJliK1UAAAAJ)**
+   *University of Bristol*
+
+* **[Gerard van den Berg](https://scholar.google.com/citations?user=XxeSeH0AAAAJ&hl=en)**
+   *University of Bristol*
+
+* **[Marcus Munafo](http://www.bristol.ac.uk/expsych/people/marcus-r-munafo/)**
+   *University of Bristol*
 
 ***
 
@@ -106,5 +106,13 @@ menu:
 
 * **Michelle Rosenberger**
    *University of Zurich*
+
+***
+
+### Want to know more?
+Follow us on twitter
+
+<a class="twitter-timeline" href="https://twitter.com/pietrobiroli?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ***
