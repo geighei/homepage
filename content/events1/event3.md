@@ -18,6 +18,7 @@ _____
 Second meeting in Bristol.
 
 _Day 1:_
+
 * Prof. Thalia Eley, King’s College London
   * “Gene-environment interaction in anxiety and depression research”
 * Prof. Hans van Kippersluis, Erasmus School of Economics
