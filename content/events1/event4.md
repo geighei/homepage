@@ -43,7 +43,7 @@ _Day 2:_
 * Samuel Baker  
 	* “GWAS on lesser notifiable diseases”
 * Emil Normark Sorensen  
-		* “Income shocks and mental health”
+	* “Income shocks and mental health”
 * Jeremy Vollen  
 	* “Is genetic advantage concentrated among higher socioeconomic status families?”
 _____
