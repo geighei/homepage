@@ -13,18 +13,18 @@ menu:
 
 ### Principal Investigators
 
-* **[Hans van Kippersluis](https://sites.google.com/site/hansvankippersluis/)**
+* **[Hans van Kippersluis](https://www.eur.nl/en/people/hans-van-kippersluis)**
    Associate Professor of Health Economics
    *Erasmus University Rotterdam*
    [hvankippersluis [at] ese.eur.nl](mailto:hvankippersluis@ese.eur.nl)
 
 * **[Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)**
-   Assistant Professor of Microeconomics
+   UBS Foundation Assistant Professor of Applied Economics
    *University of Zurich*
    [pietro.biroli [at] econ.uzh.ch](mailto:pietro.biroli@econ.uzh.ch)
 
 * **[Stephanie von Hinke](https://stephanievonhinke.wordpress.com)**
-   Reader in Economics
+   Professor of Economics
    *University of Bristol*
    [s.vonhinke [at] bristol.ac.uk](mailto:s.vonhinke@bristol.ac.uk)
 

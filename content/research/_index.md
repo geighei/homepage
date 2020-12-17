@@ -7,11 +7,17 @@ menu:
         weight: 3
 ---
 # Publications
-["ADHD and later-life labor market outcomes in the United States"](https://link.springer.com/article/10.1007/s10198-019-01055-0), Rietveld, C.A. & Patel, P.C. European Journal of Health Economics. 2019.
+["ADHD and later-life labor market outcomes in the United States"](https://link.springer.com/article/10.1007/s10198-019-01055-0), Rietveld, C.A. & Patel, P.C. European Journal of Health Economics. *2019*
 
-["The effect of the genetic propensity for obesity on income and wealth through educational attainment"](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22528), Patel, P.C. & Rietveld, C.A. Obesity. 2019.
+["The effect of the genetic propensity for obesity on income and wealth through educational attainment"](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22528), Patel, P.C. & Rietveld, C.A. Obesity. *2019*
 
-["Genomic analysis of diet composition finds novel loci and associations with health and lifestyle"](https://www.nature.com/articles/s41380-020-0697-5), Fleur R. Meddens et al., Molecular Psychiatry. 2020
+["Genomic analysis of diet composition finds novel loci and associations with health and lifestyle"](https://www.nature.com/articles/s41380-020-0697-5), Meddens F. R. et al., Molecular Psychiatry. *2020*
+
+"[The Polygenic Risk Score of Subjective Well-Being, Self-Employment, and Earnings Among Older Individuals](https://journals.sagepub.com/doi/abs/10.1177/1042258720936984)", Patel, P.C. et al. Entrepreneurship Theory and Practice. *2020*
+
+"[A decade of research on the genetics of entrepreneurship: a review and view ahead.](https://link.springer.com/article/10.1007/s11187-020-00349-5)" Rietvel, C.A. et al.   Small Business  Economics. *2020*
+
+"[Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction](https://www.biorxiv.org/content/10.1101/2020.01.14.905794v1.full.pdf)", Demange P., Malanchini M. et al., Nature Genetics. *Forthcoming*
 
 # Media Coverage
 ## Podcasts
