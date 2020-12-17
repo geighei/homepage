@@ -52,7 +52,7 @@ menu:
    *University of Bristol*
 
 * **[Gerard van den Berg](https://scholar.google.com/citations?user=XxeSeH0AAAAJ&hl=en)**
-   *University of Bristol*
+   *University of Groningen*
 
 * **[Marcus Munafo](http://www.bristol.ac.uk/expsych/people/marcus-r-munafo/)**
    *University of Bristol*
@@ -60,22 +60,20 @@ menu:
 ***
 
 ### Postdocs
-* **Adele Wang**
+* **[Adele Wang](https://orcid.org/0000-0002-7961-8027)**
    *University of Bristol*
-
-* **Fleur Meddens**
+* **[Fleur Meddens](https://scholar.google.com/citations?user=00FnsoEAAAAJ&hl=en)**
    *Erasmus University Rotterdam*
+* **[Emil Normark](http://emilnormark.dk/)**
+   *University of Bristol*
 
 ***
 
 ### PhD Students
-* **Christian Zünd**
-   *University of Zurich*
-
-* **Dilnoza Muslimova**
+* **[Dilnoza Muslimova](https://www.tinbergen.nl/person/1750/dilnoza-muslimova)**
    *Erasmus University Rotterdam*
 
-* **Rita Pereira**
+* **[Rita Pereira](https://www.ritadiaspereira.com/)**
    *Erasmus University Rotterdam*
 
 * **Samuel Baker**
@@ -95,15 +93,14 @@ menu:
 
 ### Former PhD Students and Research Assistants
 
+* **Christian Zünd**
+   *University of Zurich*
 * **Laura Zwyssig**
    *University of Zurich*
-
 * **Regina Seibel**
    *University of Zurich*
-
 * **Amr Elriedy**
    *University of Zurich*
-
 * **Michelle Rosenberger**
    *University of Zurich*
 
@@ -112,14 +109,14 @@ menu:
 ### Want to know more?
 Follow us on twitter
 
-<a class="twitter-timeline" href="https://twitter.com/fleurmeddens?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/fleurmeddens?ref_src=twsrc%5Etfw">Tweets by Fluer</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/adele_wang_?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/adele_wang_?ref_src=twsrc%5Etfw">Tweets by Adele</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a class="twitter-timeline" href="https://twitter.com/pietrobiroli?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/mendel_random?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/mendel_random?ref_src=twsrc%5Etfw">Tweets by George Davey Smith</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/MarcusMunafo?ref_src=twsrc%5Etfw">Tweets by pietrobiroli</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/MarcusMunafo?ref_src=twsrc%5Etfw">Tweets by Marcus Munafo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ***
