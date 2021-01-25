@@ -61,4 +61,4 @@ Poschingerstr. 5
 
 _____
 
-This workshop is funded by the New Opportunities for Research Funding Agency Cooperation in Europe (NORFACE) through the projects [GEIGHEI]:https://gene-environment.com/ and [IMCHILD]:https://dynamicsofinequality.org/imchild/.
+This workshop is funded by the New Opportunities for Research Funding Agency Cooperation in Europe (NORFACE) through the projects [GEIGHEI](https://gene-environment.com/) and [IMCHILD](https://dynamicsofinequality.org/imchild/).
