@@ -38,7 +38,8 @@ We encourage submissions from the following fields:
 * Equality of Opportunity
 
 We also welcome submissions from related strands of the literature. Preference is given to papers over abstracts. In particular, we strongly encourage Ph.D. students to participate. Submissions must be done electronically via the indicated link.
-There is no participation fee. The conference may be held online depending on the pandemic situation.
+There is no participation fee. 
+The conference may be held online depending on the pandemic situation.
 
 _____
 
@@ -56,7 +57,9 @@ _____
 #### GENERAL QUESTIONS?
 
 Paul Hufe
-ifo Institute
+
+IFO Institute
+
 Poschingerstr. 5
 81679 Munich / Germany
 
