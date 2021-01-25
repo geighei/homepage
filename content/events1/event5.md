@@ -23,7 +23,8 @@ _____
 #### LINK FOR SUBMISSIONS:
 https://ifo-cesifo-events.org/frontend/index.php?sub=52
 
-_ Conference _
+### Conference 
+
 We are pleased to announce the conference “Genes, Social Mobility, and Inequalities across the Life-Course”.
 This conference aims to improve our understanding how genetic endowments and childhood circumstances shape life choices, health, and socio-economic outcomes across the life-course of individuals. Furthermore, we want to discuss the scope for public policy to level the playing field.
 We encourage submissions from the following fields:
@@ -42,20 +43,22 @@ There is no participation fee. The conference may be held online depending on th
 _____
 
 #### ORGANIZERS
-Pietro Biroli (U of Zurich) 
-Tonu Esko (U of Tartu) 
-Stephanie von Hinke (U of Bristol) 
-Philippe van Kerm (LISER) 
-Hans van Kippersluis (Erasmus U) 
-Arnaud Lefranc (CY Cergy Paris) 
-Andreas Peichl (LMU Munich) 
-Alain Trannoy (AMSE) 
-Daniel Waldenström (IFN Stockholm)
+* Pietro Biroli (U of Zurich) 
+* Tonu Esko (U of Tartu) 
+* Stephanie von Hinke (U of Bristol) 
+* Philippe van Kerm (LISER) 
+* Hans van Kippersluis (Erasmus U) 
+* Arnaud Lefranc (CY Cergy Paris) 
+* Andreas Peichl (LMU Munich) 
+* Alain Trannoy (AMSE) 
+* Daniel Waldenström (IFN Stockholm)
 
 #### GENERAL QUESTIONS?
 Paul Hufe
 ifo Institute
 Poschingerstr. 5
 81679 Munich / Germany
+
+_____
 
 This workshop is funded by the New Opportunities for Research Funding Agency Cooperation in Europe (NORFACE) through the projects [GEIGHEI]: https://gene-environment.com/ and [IMCHILD]: https://dynamicsofinequality.org/imchild/.
