@@ -55,8 +55,11 @@ _____
 
 #### GENERAL QUESTIONS?
 Paul Hufe
+
 ifo Institute
+
 Poschingerstr. 5
+
 81679 Munich / Germany
 
 _____
